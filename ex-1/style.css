@@ -3,9 +3,15 @@ input {
   width: 240px;
   border-radius: 3px;
 }
+input:hover {
+  border-color: khaki;
+}
 button {
   width: 120px;
   height: 36px;
   border-color: lightgrey;
   background-color: khaki;
+}
+button:hover {
+  color: pink;
 }
